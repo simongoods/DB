@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/res/merged/release/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/release/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/release/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/release/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-tvdpi/common_full_open_on_phone.png"
+    }
+]

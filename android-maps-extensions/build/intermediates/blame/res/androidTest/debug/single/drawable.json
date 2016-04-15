@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/simonwei/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/simongoods/AndroidStudioProjects/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/C:\\Users\\lenovo\\Downloads\\android-maps-extensions-develop\\android-maps-extensions\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/simongoods/Desktop/android-maps-extensions-develop/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/res/merged/androidTest/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/simonwei/Desktop/DatabaseDemo/android-maps-extensions/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    }
+]

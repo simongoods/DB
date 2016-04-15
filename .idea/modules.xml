@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DatabaseDemo.iml" filepath="$PROJECT_DIR$/DatabaseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-maps-extensions/android-maps-extensions.iml" filepath="$PROJECT_DIR$/android-maps-extensions/android-maps-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databasedemo/databasedemo.iml" filepath="$PROJECT_DIR$/databasedemo/databasedemo.iml" />
+    </modules>
+  </component>
+</project>
